@@ -1,0 +1,42 @@
+.text-contact {
+    margin-top: -20px;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+
+}
+
+.text-contact-description {
+    text-align: center;
+    margin-top: -32px;
+}
+
+
+.contact-container {
+    margin-top: 80px;
+    display: grid;
+    justify-items: left;
+    gap: 22px;
+}
+
+.input {
+    width: 620px;
+    height: 42px;
+    background: #f0f0f0;
+    border: none;
+    border-radius: 8px;
+}
+
+textarea {
+    width: 620px;
+    height: 80px;
+    background: #f0f0f0;
+    border: none;
+    border-radius: 8px;
+
+}
+
+.contact-button-container {
+    display: flex;
+    margin: auto;
+}

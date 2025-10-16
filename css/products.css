@@ -1,0 +1,21 @@
+
+.card-product-container {
+    display: grid;
+    padding: 12px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.card-product {
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    width: 267px;
+    height: auto;
+    margin-top: 32px;
+}
+
+.card-product-container img {
+    width: 100%;
+}
+
+.card-product-container img div{
+    padding: 1px 16px;
+}

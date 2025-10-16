@@ -1,0 +1,57 @@
+body {
+    font-family: system-ui, sans-serif;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a div {
+    display: flex;
+    width: 80px;
+    height: 80px;
+}
+
+header a div image{
+    width: 100%;
+    height: auto;
+}
+
+header a div p{
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+
+}
+
+ul li {
+    list-style-type: none; 
+    margin-right: 32px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #606060;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+a:hover {
+    color: #F77429;
+}
+
+footer {
+    margin: 120px auto auto auto;
+    text-align: center;
+    color: #F77429;
+    width: 100%;
+
+}
+
