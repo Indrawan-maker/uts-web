@@ -1,8 +1,17 @@
+.product-container {
+    margin-top: 120px;
+}
+
+.product-container h2 {
+    padding-left: 120px;
+    margin-bottom: -99px;
+}
+
 
 .card-product-container {
     display: grid;
-    padding: 12px;
     grid-template-columns: repeat(4, 1fr);
+    padding: 120px;
 }
 
 .card-product {
@@ -12,10 +21,12 @@
     margin-top: 32px;
 }
 
-.card-product-container img {
+.card-product img {
+    padding: 0;
+    margin: 0;
     width: 100%;
 }
 
-.card-product-container img div{
-    padding: 1px 16px;
+.card-product div{
+    padding: 12px;
 }
