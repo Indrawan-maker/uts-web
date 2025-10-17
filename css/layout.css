@@ -9,6 +9,7 @@ header {
     align-items: center;
 }
 
+
 header a div {
     display: flex;
     width: 80px;
@@ -31,6 +32,10 @@ header a div p{
 
 #hamburger-menu{
     display: none;
+}
+
+nav {
+    align-items: center;
 }
 
 ul {
