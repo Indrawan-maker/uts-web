@@ -87,3 +87,68 @@
     justify-items: center;
     width: 100%;
 }
+
+@media (max-width: 742px) { 
+
+    .hero-container{
+    display: grid;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.hero {
+    width: 360px;
+}
+
+
+.hero-container-image {
+    display: flex;
+    width: 320px;
+}
+
+
+.hero-img {
+    padding: 18px;
+    margin-top: 46px;
+    width: 100%;
+}
+
+/* about */
+
+.card-container {
+    display: grid;
+    justify-self: center;
+    padding: 32px;
+    gap: 32px;
+}
+
+.card-about {
+    max-width: 20px;
+    height: 124px;
+}
+
+.card-text {
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.vertikal {
+    display: none;
+}
+
+.vision-container {
+    display: grid;
+    justify-items: center;
+    text-align: left;
+    width: 80%;
+
+}
+
+.vision {
+    display: grid;
+    justify-items: center;
+        width: 100%;
+
+}
+
+}

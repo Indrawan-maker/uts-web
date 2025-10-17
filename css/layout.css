@@ -25,6 +25,14 @@ header a div p{
     align-items: center;
 }
 
+.hamburger {
+    display: none;
+}
+
+#hamburger-menu{
+    display: none;
+}
+
 ul {
     display: flex;
 
@@ -52,6 +60,31 @@ footer {
     text-align: center;
     color: #606060;
     width: 100%;
+}
+
+@media (max-width: 742px) {
+
+    header a div p{
+    display: none;
+}
+
+ul {
+    display: none;
+}
+
+
+.hamburger {
+    display: block;
+    font-size: 28px;
+}
+
+
+
+#hamburger-menu:checked + .hamburger +  ul{
+    display: block;
+    background: #d3d3d3;
+    padding: 80px;
+}
 
 }
 

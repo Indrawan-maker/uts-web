@@ -29,4 +29,9 @@
 
 .card-product div{
     padding-left: 12px;
+
+}
+
+.card-product div p{
+    color: #606060;
 }
