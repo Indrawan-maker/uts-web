@@ -1,7 +1,11 @@
 [
-    {"id": 1, "name": "Roti Gembug", "description": "ukuran besar, dan gembung, dijamin enak"},
-    {"id": 2, "name": "Roti bulat", "description": "ukuran sedang, bulat seperti doraemon"},
-    {"id": 3, "name": "Roti Gandum", "description": "pas untuk sarapan, apalagi dibarengi susu"},
-    {"id": 4, "name": "Roti O", "description": "produk terbaru kami, rasa coklat dan dijamin enak"},
-    {"id": 5, "name": "Roti ku", "description": "best seller kami"}
+    {"id": 1, "name": "Roti Gembug", "description": "ukuran besar, dan gembung, dijamin enak", "image": "/images/product1.jpeg"},
+    {"id": 2, "name": "Roti Bulat", "description": "ukuran sedang, bulat seperti doraemon", "image": "/images/product2.jpg"},
+    {"id": 3, "name": "Roti Gandum", "description": "pas untuk sarapan, apalagi dibarengi susu", "image": "/images/product3.jpg"},
+    {"id": 4, "name": "Roti O", "description": "produk terbaru kami, rasa coklat dan dijamin enak", "image": "/images/product4.jpg"},
+    {"id": 5, "name": "Roti Ku", "description": "best seller kami", "image": "/images/product5.webp"},
+    {"id": 6, "name": "Roti Keju", "description": "berlapis keju tebal, cocok untuk pecinta keju", "image": "/images/product6.jpg"},
+    {"id": 7, "name": "Roti Pisang Coklat", "description": "isi pisang manis dan lelehan coklat lembut", "image": "/images/product7.jpeg"},
+    {"id": 8, "name": "Roti Sobek", "description": "tekstur empuk dan mudah disobek, favorit keluarga", "image": "/images/product8.jpg"},
+    {"id": 9, "name": "Roti Tawar", "description": "roti klasik untuk segala suasana, cocok untuk sandwich", "image": "/images/product9.avif"}
 ]
